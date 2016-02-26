@@ -1,0 +1,7 @@
+{
+	"name": "uk.ldjb.ssqlt",
+	"main": "index.html",
+	"window": {
+		"toolbar" : false
+	}
+}
